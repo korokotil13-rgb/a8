@@ -1,0 +1,6 @@
+{
+  "name": "Rainbow Six Siege Pro Audio Equalizer",
+  "description": "مدرن‌ترین اکولایزر و تقویت‌کننده صدای اختصاصی بازی Rainbow Six Siege با قابلیت صدای سه‌بعدی PS5، تنظیمات پیشرفته صدای پا و کنترل سرویس صوتی ویندوز",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
